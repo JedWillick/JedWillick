@@ -2,24 +2,24 @@
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=jedwillick&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=jedwillick&show_icons=true&theme=dark&count_private=true"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=jedwillick&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=jedwillick&show_icons=true&count_private=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=jedwillick&show_icons=true" />
+<a href="https://github.com/jedwillick"><img src="https://github-readme-stats.vercel.app/api?username=jedwillick&show_icons=true&count_private=true" /></a>
 </picture>
 <br>
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jedwillick&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jedwillick&theme=dark&count_private=true"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jedwillick"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jedwillick&count_private=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=jedwillick" />
+<a href="https://github.com/jedwillick"><img src="https://github-readme-stats.vercel.app/api?username=jedwillick&count_private=true" /></a>
 </picture>
