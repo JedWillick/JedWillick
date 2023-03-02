@@ -21,5 +21,5 @@
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jedwillick&count_private=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<a href="https://github.com/jedwillick"><img src="https://github-readme-stats.vercel.app/api?username=jedwillick&count_private=true" /></a>
+<a href="https://github.com/jedwillick"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedwillick&count_private=true" /></a>
 </picture>
