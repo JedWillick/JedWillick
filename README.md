@@ -11,5 +11,15 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=jedwillick&show_icons=true" />
 </picture>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jedwillick&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jedwillick&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jedwillick"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=jedwillick" />
+</picture>
