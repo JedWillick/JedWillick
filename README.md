@@ -3,14 +3,14 @@
 <a href="https://github.com/jedwillick">
   <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=jedwillick&show_icons=true&theme=dark&count_private=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=jedwillick&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_rank=true&show=prs_merged_percentage"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jedwillick&show_icons=true&count_private=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=jedwillick&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&show=prs_merged_percentage"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=jedwillick&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jedwillick&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&show=prs_merged_percentage" />
   </picture>
  </a>
  
