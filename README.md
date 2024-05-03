@@ -14,18 +14,17 @@
   </picture>
  </a>
  
-<br>
 
 <a href="https://github.com/jedwillick">
   <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jedwillick&theme=dark&count_private=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jedwillick&theme=dark&count_private=true&layout=compact&langs_count=8&card_width=320"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jedwillick&count_private=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jedwillick&count_private=true&layout=compact&langs_count=8&card_width=320"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedwillick&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedwillick&count_private=true&layout=compact&langs_count=8&card_width=320" />
   </picture>
  </a>
